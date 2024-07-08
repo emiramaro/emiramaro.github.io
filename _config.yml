@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Emir Syailendra / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Emir Syailendra"
 description              : &description "Personal Website"
