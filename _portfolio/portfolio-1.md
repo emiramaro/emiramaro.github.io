@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Assessing the Clinical Impact of Martin/Hopkins LDL-C Implementation"
+excerpt: "Assessing the impact of Martin/Hopkins equation implementation to Lipid
+Lowering Therapy (LLT) at Johns Hopkins Medicine affiliated health care facilities
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
